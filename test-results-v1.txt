@@ -1,0 +1,93 @@
+Intake assistant running locally with qwen2.5:1.5b. Ctrl+C to quit.
+
+Paste customer message (blank line to finish):
+
+SERVICE: Replacing burnt or damaged wiring
+URGENCY: NORMAL
+SUMMARY: The wiring in your building has been damaged, and we will replace it as soon as possible.
+
+ASK THE CUSTOMER: 
+1. How many rooms are in your building?
+2. Do you have any specific electrical components or parts you need to replace?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Pump and Motor Coil Rewinding
+URGENCY: NORMAL
+SUMMARY: The customer's pumping machine needs the coil rewound due to a bad condition. The owner will confirm the exact cost after inspecting the part.
+
+ASK THE CUSTOMER: Can you please send the pumping machine to the shop for an inspection?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Switch and Socket Fault
+URGENCY: NORMAL
+SUMMARY: The switch in your house is not working properly. We will check the wiring and repair the switch if necessary.
+
+ASK THE CUSTOMER: 
+1. Can you please describe the problem with the switch?
+2. How often does the switch not work?
+3. Do you have any photos or videos of the switch that could help us diagnose the issue?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: House Wiring
+URGENCY: NORMAL
+SUMMARY: We will confirm the exact price and parts needed after we inspect the wiring.
+ASK THE CUSTOMER: 
+1. How many bedrooms are in your flat?
+2. Do you have any specific electrical requirements or preferences?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Solar installation and CCTV supply and installation
+URGENCY: NORMAL
+SUMMARY: We can assist with both solar and CCTV installations. Please provide details on the type of installation you need.
+
+ASK THE CUSTOMER: 
+1. What type of solar panels do you need (for home, commercial, etc.)?
+2. Do you want the CCTV system installed in your home or business?
+3. What is the budget for the installation?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Replacing burnt or damaged wiring
+URGENCY: NORMAL
+SUMMARY: We will check the wiring and replace any damaged parts.
+ASK THE CUSTOMER: 
+- Can you describe the damage you've noticed?
+- How long has this been happening?
+- Do you have any specific concerns about the wiring?
+DRAFT REPLY: Hello! We'll check the wiring and replace any damaged parts. Could you please describe the damage you've noticed and how long this has been happening?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: OTHER
+URGENCY: EMERGENCY
+SUMMARY: The customer needs urgent assistance with their pressing iron and pepper grinding machine.
+
+ASK THE CUSTOMER: 
+1. What seems to be the problem with your pressing iron and pepper grinding machine?
+2. Do you have any specific instructions or parts you need to replace?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: OTHER
+URGENCY: NORMAL
+SUMMARY: I need to know the price of a 100Amps ATS, premium or regular, and the price of a contactor.
+
+ASK THE CUSTOMER: 
+1. What type of ATS (automatic transfer switch) do you need, premium or regular quality?
+2. What type of contactor do you require for your electrical installation?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+Bye.

@@ -1,0 +1,98 @@
+Intake assistant running locally with qwen2.5:1.5b. Ctrl+C to quit.
+
+Paste customer message (blank line to finish):
+
+SERVICE: Burnt or damaged wiring
+URGENCY: NORMAL
+SUMMARY: Customer's building damaged, needs new wiring.
+ASK THE CUSTOMER:
+  - Which room or area is affected?
+  - Can you send a photo, only if it is safe?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) Which room or area is affected? (2) Can you send a photo, only if it is safe? The owner will review your request and reply.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Pump or motor rewinding
+URGENCY: NORMAL
+SUMMARY: Customer needs a coil for a faulty pumping machine.
+ASK THE CUSTOMER:
+  - What is the pump or motor rating (HP or kW) and brand?
+  - Can you send a photo, or bring the machine for inspection?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) What is the pump or motor rating (HP or kW) and brand? (2) Can you send a photo, or bring the machine for inspection? The owner will review your request and reply.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Switch or socket fault
+URGENCY: NORMAL
+SUMMARY: Customer reports switch not working well, needs electrical repair.
+ASK THE CUSTOMER:
+  - Which switch or socket is it?
+  - What is happening (no power, tripping, hot)?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) Which switch or socket is it? (2) What is happening (no power, tripping, hot)? The owner will review your request and reply.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: House wiring
+URGENCY: NORMAL
+SUMMARY: Customer wants wiring for a 3 bedroom flat.
+ASK THE CUSTOMER:
+  - How many bedrooms, and is it new wiring or a rewire?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) How many bedrooms, and is it new wiring or a rewire? The owner will review your request and reply.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Solar installation + CCTV
+URGENCY: NORMAL
+SUMMARY: Customer wants solar installation.
+ASK THE CUSTOMER:
+  - Is it for a home or a business?
+  - What do you want to power (lights, fridge, AC)?
+  - How many cameras do you need?
+  - Is it a home or a business?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) Is it for a home or a business? (2) What do you want to power (lights, fridge, AC)? (3) How many cameras do you need? (4) Is it a home or a business? The owner will review your request and reply.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+!!! SAFETY FLAG: possible fire or shock risk. Call the customer NOW.
+
+SERVICE: Burnt or damaged wiring
+URGENCY: EMERGENCY
+SUMMARY: Customer reports wire burning in room. Needs new wiring.
+ASK THE CUSTOMER:
+  - Which room or area is affected?
+  - Can you send a photo, only if it is safe?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) Which room or area is affected? (2) Can you send a photo, only if it is safe? The owner will review your request and reply. If it is safe to do so, please switch off at the main breaker and keep away from the area until we reach you.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Urgent equipment repair
+URGENCY: URGENT
+SUMMARY: Customer needs urgent repair for pressing iron and pepper grinding machine.
+ASK THE CUSTOMER:
+  - What equipment is it and what is it doing?
+  - Can you bring it in, or must we come to you?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) What equipment is it and what is it doing? (2) Can you bring it in, or must we come to you? The owner will review your request and reply.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: ATS (automatic transfer switch) + Contactors and components
+URGENCY: NORMAL
+SUMMARY: A 100Amps ATS is $1000, contactors are $500. Customer is asking about price.
+ASK THE CUSTOMER:
+  - What amperage do you need (100A or higher)?
+  - Regular or premium quality?
+  - Single-phase or three-phase?
+  - What is the rating (amps) and coil voltage, or can you send a photo of the old one?
+DRAFT REPLY: Hello, thank you for contacting us. To help you, please tell us: (1) What amperage do you need (100A or higher)? (2) Regular or premium quality? (3) Single-phase or three-phase? (4) What is the rating (amps) and coil voltage, or can you send a photo of the old one? The owner will review your request and reply. The owner will confirm the exact price after seeing the job or the exact part.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+Bye.

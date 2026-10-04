@@ -1,0 +1,100 @@
+Intake assistant running locally with qwen2.5:1.5b. Ctrl+C to quit.
+
+Paste customer message (blank line to finish):
+
+SERVICE: House wiring
+URGENCY: NORMAL
+SUMMARY: Customer needs urgent replacement of house wiring.
+ASK THE CUSTOMER:
+  - Please provide the location of the damaged wiring.
+  - What is the approximate size of the building?
+  - Please share any photos of the damaged wiring for better assessment.
+DRAFT REPLY: Thank you for reaching out. We're here to help. Could you please provide the location of the damaged wiring, the approximate size of the building, and any photos for a better assessment?
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Pump or motor rewinding
+URGENCY: NORMAL
+SUMMARY: Customer says the pumping machine needs coil rewinding due to bad condition.
+ASK THE CUSTOMER:
+  - Please provide the amperage rating of the pump.
+  - Is the location in an apartment building or a house?
+DRAFT REPLY: Thank you for contacting us. We're here to help with any electrical issues you might have. Could you please provide the amperage rating of the pump and let me know if the location is in an apartment building or a house? This will help us provide the best possible service.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Switch or socket fault
+URGENCY: NORMAL
+SUMMARY: Customer reports a switch fault.
+ASK THE CUSTOMER:
+  - Please provide the location of the switch in your house.
+  - What is the approximate size of the switch or socket?
+DRAFT REPLY: Thank you for reaching out. We would be happy to help with your switch fault. Please provide the location of the switch in your house and the approximate size so we can get started.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: House wiring
+URGENCY: NORMAL
+SUMMARY: Customer needs wiring for a 3 bedroom flat.
+ASK THE CUSTOMER:
+  - Please provide the location of the flat.
+  - What is the current rating or size of the wiring in the flat?
+  - Please send any photos of the wiring issues you have encountered.
+DRAFT REPLY: Thank you for contacting us. We will get back to you as soon as possible with a quote and any necessary steps to resolve the issue. Please provide the location of the flat, the current rating or size of the wiring, and any photos of the wiring issues you have encountered.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Solar installation
+URGENCY: NORMAL
+SUMMARY: Customer wants solar installation
+ASK THE CUSTOMER:
+  - Please provide the location for the installation.
+  - What is the size of the property?
+  - Could you please send some photos for the installation site?
+DRAFT REPLY: Thank you for your interest in our services. We would be happy to assist you with your request. Please provide the following details: location for the installation, size of the property, and any photos for the installation site. We look forward to your response.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+!!! SAFETY FLAG: possible fire or shock risk. Call the customer NOW.
+
+SERVICE: Burnt or damaged wiring
+URGENCY: EMERGENCY
+SUMMARY: Customer reports a burnt wire in their room.
+ASK THE CUSTOMER:
+  - Please provide the location and size of the room.
+  - If you have any photos, please send them for better identification.
+DRAFT REPLY: Thank you for reaching out. We'd be happy to help with your issue. Could you please provide the location and size of the room where the wire is burnt? If you have any photos, we can use them to better identify the problem. If it is safe to do so, please switch off at the main breaker and keep away from the area until we reach you.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: Contactors and components
+URGENCY: URGENT
+SUMMARY: Customer needs urgent repair for contactors and components.
+ASK THE CUSTOMER:
+  - Please provide the amperage rating of the contactors and components.
+  - Is the equipment located in a 2 or 3 bedroom flat?
+  - Please share any photos for better understanding.
+DRAFT REPLY: Thank you for reaching out. We're here to help with your urgent repair needs. Could you please provide the amperage rating of the contactors and components, and let me know if the equipment is located in a 2 or 3 bedroom flat? Any photos would also be helpful for our technicians to understand the situation better.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+SERVICE: House wiring
+URGENCY: NORMAL
+SUMMARY: Customer needs urgent house wiring repair. Customer is asking about price.
+ASK THE CUSTOMER:
+  - Customer's address: 123 Main St, Anytown, USA
+  - Customer's rating/size: 2 bedroom flat
+  - Photos: Please send photos of the damaged wiring and burnt sockets
+DRAFT REPLY: Hello! Thank you for reaching out. I'm here to help with urgent house wiring repairs. Could you please provide your address and the size of your flat, along with any photos of the damaged wiring and burnt sockets? We'll get right to work on fixing your house wiring as soon as possible. Thanks! The owner will confirm the exact price after seeing the job or the exact part.
+--------------------------------------------------
+
+Paste customer message (blank line to finish):
+
+Bye.
