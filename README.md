@@ -20,3 +20,4 @@ Built for a friend who runs a small electrical services business.
 
 ## Safety
 The assistant never invents prices or gives repair instructions. A keyword check runs before the model and flags fire or shock risks.
+## Live link : https://bientechsavvy.github.io/electric-showcase/
